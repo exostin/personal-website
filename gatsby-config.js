@@ -10,7 +10,7 @@ module.exports = {
     siteTitle: `Damian Dorosz`,
     siteTitleAlt: `Damian Dorosz`,
     siteHeadline: `Damian Dorosz`,
-    siteUrl: `https://exostin.github.io`,
+    siteUrl: `https://damiandorosz.me`,
     siteDescription: `Damian Dorosz personal website`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
