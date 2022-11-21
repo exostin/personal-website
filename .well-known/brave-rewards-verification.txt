@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: damiandorosz.me
+Token: 848cf4a2dcbd6ad6efe6474b4bb04b6ff13e6e9c6fd8cddff6bff245b02eb6a5
