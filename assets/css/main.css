@@ -1,6 +1,12 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 @import url("fontawesome-all.min.css");
 
+.skillsSection {
+	margin-top: 10px;
+	margin-bottom: -20px;
+	height: 50px;
+}
+
 /*
 	Aerial by HTML5 UP
 	html5up.net | @ajlkn
